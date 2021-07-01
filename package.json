@@ -1,16 +1,15 @@
 {
-  "name": "pet-shop",
+  "name": "election-voting-dapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Election Voting DAPP",
   "main": "truffle.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "dev": "lite-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "lite-server"
   },
-  "author": "",
+  "author": "Nishant V",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
