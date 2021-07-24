@@ -1,11 +1,6 @@
 ## Portfolio Page: Nishant Vemulakonda
 
-- [LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda)
-- [Medium](https://nishantv.medium.com)
-- [GitHub](https://github.com/itznishant)
-
 ### Introduction
-  <br><br>
   <b>Professional Summary</b>
   <br><br>
   ‣Prolific, experienced Blockchain Developer with 7+ years of rich IT experience.
@@ -16,12 +11,39 @@
   <br><br>
   ‣Excellent understanding of EVM and smart contract development lifecycle.
 
-### Social Links
+### My Skills
 
-- [LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda)
-- [Medium](https://nishantv.medium.com)
-- [Twitter](https://twitter.com/itznish)
-- [GitHub](https://github.com/itznishant)
+- Python
+   
+- Solidity
+   
+- Ethereum
+
+- Smart Contracts
+
+- Blockchain
+
+- Decentralised APPS (Dapps)
+   
+- JavaScript
+
+- Truffle
+
+- Git
+   
+- GCP
+
+#### Social Links
+
+- [LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda) <img src="images/linkedInlogo.png"/>
+- [Medium](https://nishantv.medium.com) <img src="images/mediumlogo.png"/>
+- [GitHub](https://github.com/itznishant) <img src="images/githubLogo.png"/>
+- [Twitter](https://twitter.com/itznish) <img src="images/twitterlogo.png"/>
+
+#### Contact Info
+
+- Location: Bangalore, India
+- mailto:nishant.vemulakonda1@gmail.com
 
 ##### References
 
