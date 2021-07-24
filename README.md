@@ -35,15 +35,19 @@
 
 #### Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda) <img src="images/linkedInlogo.png"/>
-- [Medium](https://nishantv.medium.com) <img src="images/mediumlogo.png"/>
-- [GitHub](https://github.com/itznishant) <img src="images/githubLogo.png"/>
-- [Twitter](https://twitter.com/itznish) <img src="images/twitterlogo.png"/>
+[LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda) 
+<!-- <img src="images/linkedInlogo.png"/> -->
+[Medium](https://nishantv.medium.com) 
+<!-- <img src="images/mediumlogo.png"/> -->
+[GitHub](https://github.com/itznishant) 
+<!-- <img src="images/githubLogo.png"/> -->
+[Twitter](https://twitter.com/itznish) 
+<!-- <img src="images/twitterlogo.png"/> -->
 
 #### Contact Info
 
 - Location: Bangalore, India
-- mailto:nishant.vemulakonda1@gmail.com
+- Mail:nishant.vemulakonda1@gmail.com
 
 ##### References
 
