@@ -41,13 +41,13 @@
 
 #### Social Links
 
-[LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda) 
+- [LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda) 
 <!-- <img src="images/linkedInlogo.png"/> -->
-[Medium](https://nishantv.medium.com) 
+- [Medium](https://nishantv.medium.com) 
 <!-- <img src="images/mediumlogo.png"/> -->
-[GitHub](https://github.com/itznishant) 
+- [GitHub](https://github.com/itznishant) 
 <!-- <img src="images/githubLogo.png"/> -->
-[Twitter](https://twitter.com/itznish) 
+- [Twitter](https://twitter.com/itznish) 
 <!-- <img src="images/twitterlogo.png"/> -->
 
 #### Contact Info
