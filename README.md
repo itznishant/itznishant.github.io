@@ -5,13 +5,13 @@
   <br><br>
   ‣Prolific, experienced Blockchain Developer with 7+ years of rich IT experience.
   <br><br>
-  ‣Strong Programming skills in Solidity, Python, JavaScript
+  ‣Strong Programming skills in Solidity, Python, JavaScript, React.JS.
   <br><br>
   ‣Passionate about building world class DApps on Ethereum smart contracts
   <br><br>
-  ‣Excellent understanding of EVM and smart contract development lifecycle.
+  ‣Excellent understanding of Ethereum smart contract development lifecycle.
 
-### My Skills
+### Skill Set
 
 - Python
    
@@ -28,6 +28,12 @@
 - JavaScript
 
 - Truffle
+
+- React.JS
+
+- Web3.JS
+
+- Cryptography
 
 - Git
    
