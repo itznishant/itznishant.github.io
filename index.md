@@ -5,11 +5,11 @@
 ### Blockchain | Ethereum
 
 [Instant Crypto Exchange Dapp - Smart contracts](https://itznishant.github.io/CryptoExchangeDapp)
-<img src="images/ExchangeDappUI.png?raw=true"/>
+<img src="images/exchangedapp.png?raw=true"/>
 
 ---
 [DeFi (Decentralised Finance) Bank](https://itznishant.github.io/dBank/)
-<img src="images/dappUI.png?raw=true"/>
+<img src="images/dbankdapp.png?raw=true"/>
 
 ---
 [Crypto Token Sale ICO DAPP](https://itznishant.github.io/SASITokenDAPP)

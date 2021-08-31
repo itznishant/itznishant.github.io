@@ -29,9 +29,9 @@
 
 - Truffle
 
-- React.JS
+- React JS
 
-- Web3.JS
+- Web3 JS
 
 - Cryptography
 
