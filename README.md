@@ -1,8 +1,6 @@
-## Portfolio Page: Nishant Vemulakonda
+## Nishant Vemulakonda
 
-### Introduction
-  <b>Professional Summary</b>
-  <br><br>
+### Professional Summary
   ‣Prolific, experienced Blockchain Developer with 7+ years of rich IT experience.
   <br><br>
   ‣Strong Programming skills in Solidity, Python, JavaScript, React.JS.
@@ -23,6 +21,10 @@
 
 - Blockchain
 
+- Machine Learning
+
+- Data Analytics
+
 - Decentralised APPS (Dapps)
    
 - JavaScript
@@ -39,22 +41,18 @@
    
 - GCP
 
-#### Social Links
+### Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda) 
+[LinkedIn](https://www.linkedin.com/in/nishant-vemulakonda)&nbsp; &nbsp; &nbsp;[Medium](https://nishantv.medium.com)&nbsp; &nbsp; &nbsp;[GitHub](https://github.com/itznishant)&nbsp; &nbsp; &nbsp;[Twitter](https://twitter.com/itznish)&nbsp; &nbsp; &nbsp;
 <!-- <img src="images/linkedInlogo.png"/> -->
-- [Medium](https://nishantv.medium.com) 
 <!-- <img src="images/mediumlogo.png"/> -->
-- [GitHub](https://github.com/itznishant) 
 <!-- <img src="images/githubLogo.png"/> -->
-- [Twitter](https://twitter.com/itznish) 
 <!-- <img src="images/twitterlogo.png"/> -->
 
-#### Contact Info
+### Contact Info
 
-- Location: Bangalore, India
-- Mail:nishant.vemulakonda1@gmail.com
+[Mail me](mailto:nishant.vemulakonda1@gmail.com)&nbsp; &nbsp; &nbsp;[Location](https://www.google.com/maps/@12.9294882,77.6313828,19z)
 
-##### References
+#### References
 
-Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<p style="font-size:8px">Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)</p>
